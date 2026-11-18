@@ -1,19 +1,7 @@
-
+<p align="center">
+  <img src="desiree-banner.png" alt="Desiree Johnson - Building the Future Through Code" width="100%">
+</p>
 <div align="center">
-
-# DESIREE JOHNSON
-
-### BUILDING THE FUTURE THROUGH CODE.
-
-**Computer Science Student | Future Software Engineer**
-
-Technology. Creativity. Innovation.
-
-[LinkedIn](https://www.linkedin.com/in/desiree-johnson-203448259)
-
-</div>
-
----
 
 ## ABOUT ME
 
@@ -96,6 +84,7 @@ Continuously learning, building, testing, and growing as a future software engin
 ### LET'S CONNECT
 
 I'm always interested in learning, collaborating, and exploring new opportunities in technology.
+[LinkedIn](https://www.linkedin.com/in/desiree-johnson-203448259)
 
 **BUILDING THE FUTURE, ONE LINE OF CODE AT A TIME.**
 
